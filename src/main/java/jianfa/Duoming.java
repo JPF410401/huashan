@@ -6,5 +6,8 @@ public class Duoming {
         System.out.println("夺命三剑");
         System.out.println("夺命三剑");
         System.out.println("夺命三剑");
+        System.out.println("剑宗三剑");
+        System.out.println("剑宗三剑");
+
     }
 }
